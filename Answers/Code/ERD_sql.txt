@@ -38,7 +38,7 @@ CREATE TABLE "merchant" (
 
 CREATE TABLE "transaction" (
     "id" INTEGER   NOT NULL,
-    "date" DATE   NOT NULL,
+    "date" STAMP   NOT NULL,
     "time" TIME   NOT NULL,
     "amount" DEC   NOT NULL,
     "card" VARCHAR   NOT NULL,
