@@ -1,0 +1,28 @@
+card_holder as h
+-
+id INTEGER PK
+name VARCHAR
+
+credit_card as c
+-
+card VARCHAR PK
+cardholder_id INTEGER FK >- h.id
+
+merchant_category as g
+-
+id INTEGER PK
+name VARCHAR
+
+merchant as m
+-
+id INTEGER PK
+name VARCHAR
+id_merchant_category INTEGER FK >- g.id
+
+transaction as t
+-
+id INTEGER PK
+date DATE
+amount DEC
+card VARCHAR FK >- c.card
+id_merchant INTEGER FK >- m.id
