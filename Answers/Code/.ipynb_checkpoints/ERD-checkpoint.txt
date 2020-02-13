@@ -22,7 +22,7 @@ id_merchant_category INTEGER FK >- g.id
 transaction as t
 -
 id INTEGER PK
-date DATE
+date TIMESTAMP
 amount DEC
 card VARCHAR FK >- c.card
 id_merchant INTEGER FK >- m.id

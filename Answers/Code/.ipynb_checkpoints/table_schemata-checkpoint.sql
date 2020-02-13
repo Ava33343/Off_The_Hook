@@ -1,5 +1,5 @@
 -- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- Link to schema: https://app.quickdatabasediagrams.com/#/d/P2duCE
+-- Link to schema: https://app.quickdatabasediagrams.com/?state=bfhtay2bl8i&code=4%2FwQFg7U_mkE3MSRvhD3xckf8gitN4g_xg2QQQZM3uvvpu5FnJuSvSetIv9a_7D1C5Q4eNhhlWYB8eLCbQ7hUs-Y4&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent&session_state=24d616fbf729041e9ab23a0834649bca1d88e7ed..e78e#/d/P2duCE
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
 
