@@ -1,27 +1,22 @@
 # Unit 7 Homework Assignment: Looking for Suspicious Transactions
 
-![Credit card fraudster](Images/credit_card_fraudster.jpg)
+## Task 1. [Data Modeling](#Data-Modeling):
 
-*[Credit Card Fraudster by Richard Patterson](https://www.flickr.com/photos/136770128@N07/42252105582/) | [Creative Commons Licensed](https://creativecommons.org/licenses/by/2.0/)*
+An ERD is created below following instructions on Quick Database Diagrams for on one-to-one and one-to-many relationships between 
+* card holders, credit cards, merchants, merchant categories, transaction dates and amounts
 
-## Background
+![ERD](Images/ERD.png)
+*[Quick Database Diagrams](https://app.quickdatabasediagrams.com/#/d/P2duCE)*
+    * [ERD input on website](Code/ERD.txt)
+        * where PK indicates a primary key, FK indicates a foreign key, >- indicates many to one, TIMESTAMP records both date and time into PostgresSQL 
 
-Fraud is prevalent these days, whether you are a small taco shop or a large international business. While there are emerging technologies that employ machine learning and artificial intelligence to detect fraud, many instances of fraud detection still require strong data analytics to find abnormal charges.
 
-In this homework assignment, you will apply your new SQL skills to analyze historical credit card transactions and consumption patterns in order to identify possible fraudulent transactions.
+## Task 2. [Data Engineering](#Data-Engineering): Create a database schema on PostgreSQL and populate your  database from the CSV files provided.
+* Create a database in postgres 12 called "activities_db"
+* Use the sql code exported from Quickdatabase Diagrams to create tables [Database schema](Code/table_schemata.sql)
+* Import the following five csv files to the tables created correspondingly, checking header and delimiter as ","
 
-You are asked to accomplish three main tasks:
-
-1. [Data Modeling](#Data-Modeling):
-Define a database model to store the credit card transactions data and create a new PostgreSQL database using your model.
-
-2. [Data Engineering](#Data-Engineering): Create a database schema on PostgreSQL and populate your  database from the CSV files provided.
-
-3. [Data Analysis](#Data-Analysis): Analyze the data to identify possible fraudulent transactions.
-
----
-
-## Files
+### Data Files
 
 * [card_holder.csv](Data/card_holder.csv)
 * [credit_card.csv](Data/credit_card.csv)
@@ -29,23 +24,8 @@ Define a database model to store the credit card transactions data and create a 
 * [merchant_category.csv](Data/merchant_category.csv)
 * [transaction.csv](Data/transaction.csv)
 
-## Instructions
 
-### Data Modeling
-
-Create an entity relationship diagram (ERD) by inspecting the provided CSV files.
-
-Part of the challenge here is to figure out how many tables you should create, as well as what kind of relationships you need to define among the tables.
-
-Feel free to discuss your database model design ideas with your classmates. You can use a tool like [Quick Database Diagrams](https://www.quickdatabasediagrams.com) to create your model.
-
-### Data Engineering
-
-Using your database model as a blueprint, create a database schema for each of your tables and relationships. Remember to specify data types, primary keys, foreign keys, and any other constraints you defined.
-
-After creating the database schema, import the data from the corresponding CSV files.
-
-### Data Analysis
+## Task 3. [Data Analysis](#Data-Analysis): Analyze the data to identify possible fraudulent transactions.
 
 It's time to identify fraudulent transactions. In this part of the homework assignment, you will analyze the data and then create a report to present your findings. You can use a Jupyter Notebook, a markdown file, or a word processor. Your report should answer the following questions:
 
@@ -91,22 +71,33 @@ Read the following articles on outliers detection, and then code a function usin
 
 * [How to Use Statistics to Identify Outliers in Data](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)
 
-### Submission
 
-* Create an image file of your ERD.
+### Submission in Answers folder:
 
-* Create a `.sql` file of your table schemata.
+* ![ERD](Images/ERD.png)
 
-* Create a `.sql` file of your queries.
+* [Table Schemata](Code/table_schemata.sql)
 
-* Create a Jupyter Notebook for the visual data analysis and the challenge.
+* [Queries to Detect Fraud](Code/queries.sql)
 
-* Create and upload a repository with the above files to GitHub and post a link in BootCamp Spot.
+* [Visual Data Analysis](Code/visual_data_analysis.ipynb).
 
-## Hint
+* [Challenge on Identifying Outliers](Code/challenge.ipynb)
 
-For comparing time and dates, take a look at the [date/time functions and operators](https://www.postgresql.org/docs/8.0/functions-datetime.html) in the PostgreSQL documentation.
 
 ---
 
-© 2019 Trilogy Education Services
+# References:
+* https://app.quickdatabasediagrams.com/#/d/P2duCE
+* https://www.postgresql.org/docs/8.0/functions-datetime.html
+* https://stackoverflow.com/questions/31668689/select-timestamp-data-for-specific-time-range-each-day
+* https://towardsdatascience.com/detecting-financial-fraud-using-machine-learning-three-ways-of-winning-the-war-against-imbalanced-a03f8815cce9
+* https://en.wikipedia.org/wiki/Data_analysis_techniques_for_fraud_detection
+* https://www.bluefin.com/support/identifying-fraudulent-transactions/
+* https://chargebacks911.com/credit-card-fraud-detection-techniques/
+* https://www.fico.com/blogs/5-keys-using-ai-and-machine-learning-fraud-detection
+* https://www.w3schools.com/sql/sql_dates.asp
+* https://www.practicalecommerce.com/7-telltale-signs-payment-card-fraud
+* https://chargebacks911.com/fraud-red-flags/
+* https://blog.bluepay.com/how-to-recognize-a-potentially-fraudulent-credit-card-user
+* https://www.verifi.com/resources/10-telltale-signs-of-a-fraudulent-order-how-to-stop-chargebacks-before-they-stop-you/
