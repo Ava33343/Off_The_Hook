@@ -1,0 +1,276 @@
+id,name,card,date,amount,merchant,category
+1,Robert Johnson,4761049645711555811,2018-12-07 07:22:03,1894.00,"Curry, Scott and Richardson",bar
+16,Crystal Clark,5570600642865857,2018-03-05 08:26:08,1617.00,Mccarty-Thomas,bar
+25,Nancy Contreras,4319653513507,2018-03-06 07:18:09,1334.00,Griffin-Woodard,bar
+16,Crystal Clark,5570600642865857,2018-01-22 08:07:03,1131.00,"Walker, Deleon and Wolf",restaurant
+1,Robert Johnson,4761049645711555811,2018-09-26 08:48:40,1060.00,"Jenkins, Peterson and Beck",restaurant
+1,Robert Johnson,4761049645711555811,2018-09-06 08:28:55,1017.00,"Jacobs, Torres and Walker",bar
+9,Laurie Gibbs,30181963913340,2018-03-26 07:41:59,1009.00,Padilla-Clements,coffee shop
+12,Megan Price,501879657465,2018-12-14 08:51:41,748.00,Johnson-Fuller,pub
+25,Nancy Contreras,4319653513507,2018-04-01 07:17:21,100.00,Padilla-Clements,coffee shop
+20,Kevin Spencer,4506405265172173,2018-08-26 07:15:18,23.13,Marshall-Lopez,food truck
+10,Matthew Gutierrez,4165305432349489280,2018-08-28 07:17:14,20.71,"Pitts, Salinas and Garcia",coffee shop
+20,Kevin Spencer,4586962917519654607,2018-10-07 08:16:54,20.44,Kelley-Roberts,food truck
+16,Crystal Clark,5500708021555307,2018-10-18 07:16:04,19.86,Johnson-Fuller,pub
+24,Stephanie Dalton,4681896441519,2018-03-03 08:42:02,19.50,"Wilson, Roberts and Davenport",food truck
+4,Danielle Green,584226564303,2018-06-04 08:30:28,19.49,Reed Group,food truck
+16,Crystal Clark,5500708021555307,2018-03-26 08:08:27,19.34,Johnson-Fuller,pub
+11,Brandon Pineda,180098539019105,2018-06-01 08:56:59,19.33,Lee LLC,restaurant
+10,Matthew Gutierrez,4962915017023706562,2018-12-23 07:39:47,19.27,Jarvis-Turner,pub
+15,Kyle Tucker,4723783028106084756,2018-09-23 07:30:56,19.02,"Bond, Lewis and Rangel",restaurant
+5,Sara Cooper,4268491956169254,2018-02-21 08:21:10,18.98,"Wilson, Roberts and Davenport",food truck
+19,Peter Mckay,5361779664174555,2018-08-02 07:44:24,18.93,Combs-Jones,food truck
+10,Matthew Gutierrez,213193946980303,2018-07-04 08:51:29,18.93,Smith-Stephens,coffee shop
+23,Mark Lewis,4188164051171486,2018-06-09 07:29:28,18.82,"Allen, Ramos and Carroll",pub
+23,Mark Lewis,4150721559116778,2018-06-02 07:45:48,18.76,"Walker, Campbell and Sullivan",food truck
+20,Kevin Spencer,3535651398328201,2018-01-06 08:42:50,18.72,Lowe PLC,restaurant
+14,Gary Jacobs,5175947111814778,2018-06-24 07:28:48,18.60,Little-Floyd,pub
+8,Michael Floyd,4834483169177062,2018-06-23 07:12:06,18.56,"Cline, Myers and Strong",restaurant
+18,Malik Carlson,4498002758300,2018-08-14 08:38:49,18.54,"Johnson, Rivas and Anderson",restaurant
+24,Stephanie Dalton,3582198969197591,2018-10-07 07:08:08,18.53,Fowler and Sons,food truck
+2,Shane Shaffer,675911140852,2018-02-27 08:27:00,18.52,Wilson and Sons,restaurant
+8,Michael Floyd,4834483169177062,2018-09-12 07:33:19,18.48,Smith-Stephens,coffee shop
+13,John Martin,3561954487988605,2018-01-06 07:00:32,18.35,Lowe PLC,restaurant
+18,Malik Carlson,344119623920892,2018-02-18 08:54:19,18.30,Dominguez PLC,food truck
+20,Kevin Spencer,3535651398328201,2018-02-25 07:55:21,18.14,Wallace and Sons,coffee shop
+11,Brandon Pineda,180098539019105,2018-02-05 08:37:24,17.85,"Murphy, Heath and Fields",restaurant
+23,Mark Lewis,4150721559116778,2018-09-02 07:36:42,17.80,Carter-Blackwell,pub
+12,Megan Price,501879657465,2018-04-15 08:32:38,17.78,Patton-Rivera,bar
+23,Mark Lewis,4150721559116778,2018-04-09 07:08:11,17.73,"Richardson, Smith and Jordan",food truck
+21,Dana Washington,4279104135293225293,2018-06-13 08:46:29,17.56,Walters-Ward,restaurant
+10,Matthew Gutierrez,4165305432349489280,2018-01-18 08:18:50,17.54,"Mcdaniel, Hines and Mcfarland",coffee shop
+11,Brandon Pineda,180098539019105,2018-01-18 08:58:13,17.53,Garcia PLC,food truck
+6,Beth Hernandez,4159836738768855913,2018-05-20 08:36:46,17.48,Martin Inc,restaurant
+20,Kevin Spencer,3535651398328201,2018-06-02 07:44:39,17.47,Smith PLC,bar
+3,Elizabeth Sawyer,30078299053512,2018-01-16 08:02:04,17.36,Ferguson Ltd,coffee shop
+13,John Martin,4711773125020499,2018-12-28 07:02:38,17.13,Johnson-Fuller,pub
+5,Sara Cooper,4268491956169254,2018-06-08 07:31:57,17.03,Perry and Sons,bar
+16,Crystal Clark,503842928916,2018-10-29 07:18:34,16.85,"Williams, Wright and Wagner",coffee shop
+5,Sara Cooper,4276466390111,2018-10-28 07:02:33,16.85,"Norton, Burton and Smith",food truck
+8,Michael Floyd,4834483169177062,2018-04-23 08:18:49,16.65,"Cooper, Carpenter and Jackson",food truck
+4,Danielle Green,584226564303,2018-05-03 07:20:28,16.64,Robles Inc,bar
+25,Nancy Contreras,4319653513507,2018-03-05 07:34:15,16.58,"Jacobs, Torres and Walker",bar
+24,Stephanie Dalton,3582198969197591,2018-02-18 07:25:42,16.38,Yoder-Zavala,food truck
+10,Matthew Gutierrez,4165305432349489280,2018-03-28 07:36:02,16.36,"Maxwell, Tapia and Villanueva",coffee shop
+6,Beth Hernandez,3581345943543942,2018-12-16 08:41:53,16.35,"Richardson, Smith and Jordan",food truck
+5,Sara Cooper,4268491956169254,2018-01-06 08:49:34,16.28,Whitehead-Sexton,pub
+20,Kevin Spencer,4586962917519654607,2018-07-17 08:10:36,16.21,Solis Group,food truck
+18,Malik Carlson,4498002758300,2018-06-10 07:55:27,16.16,Herrera Group,restaurant
+13,John Martin,5135837688671496,2018-04-11 08:26:52,16.07,Combs-Jones,food truck
+25,Nancy Contreras,372414832802279,2018-06-19 07:16:54,15.98,Martin Inc,restaurant
+20,Kevin Spencer,3535651398328201,2018-09-06 08:35:35,15.98,Colon Ltd,bar
+2,Shane Shaffer,675911140852,2018-05-28 07:57:39,15.96,"Pitts, Salinas and Garcia",coffee shop
+23,Mark Lewis,4188164051171486,2018-10-30 07:08:04,15.94,"Vaughn, Wilson and Hall",restaurant
+16,Crystal Clark,503842928916,2018-06-26 08:00:22,15.94,Wood-Ramirez,bar
+24,Stephanie Dalton,30142966699187,2018-05-20 07:05:42,15.37,"Vega, Jones and Castro",food truck
+23,Mark Lewis,4741042733274,2018-01-14 07:33:54,15.21,Robertson-Smith,pub
+15,Kyle Tucker,6500236164848279,2018-01-27 08:36:58,15.15,Greene LLC,restaurant
+8,Michael Floyd,4834483169177062,2018-02-25 08:23:37,15.10,Mccullough-Murphy,food truck
+13,John Martin,5135837688671496,2018-06-10 08:20:40,15.05,"Williams, Wright and Wagner",coffee shop
+24,Stephanie Dalton,30142966699187,2018-04-20 08:27:59,15.04,Vasquez-Parker,bar
+19,Peter Mckay,4743204091443101526,2018-09-26 07:52:23,14.94,Combs-Jones,food truck
+1,Robert Johnson,3517111172421930,2018-12-11 07:42:50,14.92,Greene LLC,restaurant
+12,Megan Price,5297187379298983,2018-04-07 07:18:20,14.80,"Wilson, Roberts and Davenport",food truck
+7,Sean Taylor,3516952396080247,2018-08-02 07:13:49,14.42,Osborne-Page,coffee shop
+25,Nancy Contreras,372414832802279,2018-12-15 08:34:15,14.36,Solis Group,food truck
+15,Kyle Tucker,6500236164848279,2018-04-24 07:41:49,14.30,Marshall-Lopez,food truck
+13,John Martin,4711773125020499,2018-10-22 07:41:56,13.83,Sweeney-Paul,coffee shop
+12,Megan Price,376027549341849,2018-09-03 07:27:55,13.59,"Boone, Davis and Townsend",pub
+2,Shane Shaffer,675911140852,2018-03-10 08:52:09,13.53,Collins LLC,coffee shop
+19,Peter Mckay,3561072557118696,2018-04-27 08:08:38,13.52,"Walker, Campbell and Sullivan",food truck
+20,Kevin Spencer,4586962917519654607,2018-02-26 07:31:20,13.46,Robertson-Smith,pub
+15,Kyle Tucker,6500236164848279,2018-05-01 07:40:00,12.98,Martinez-Robinson,bar
+23,Mark Lewis,4150721559116778,2018-10-27 08:04:44,12.98,"Sanders, Parks and Mcfarland",coffee shop
+5,Sara Cooper,4268491956169254,2018-03-30 08:12:28,12.96,"Jones, Clark and Hoover",coffee shop
+18,Malik Carlson,4498002758300,2018-01-17 07:31:03,12.67,Kelley-Roberts,food truck
+11,Brandon Pineda,180098539019105,2018-08-08 08:36:23,12.52,Ferguson Ltd,coffee shop
+5,Sara Cooper,4276466390111,2018-07-30 08:49:16,12.50,Baker Inc,food truck
+7,Sean Taylor,4539990688484983,2018-11-30 08:52:20,12.32,"Rodriguez, Dunlap and Nunez",coffee shop
+18,Malik Carlson,4498002758300,2018-12-29 08:11:55,12.25,Wilson and Sons,restaurant
+1,Robert Johnson,4761049645711555811,2018-02-19 08:50:36,12.17,Clark and Sons,food truck
+12,Megan Price,501879657465,2018-01-20 08:35:34,11.96,"Fleming, Smith and Collins",bar
+24,Stephanie Dalton,4681896441519,2018-07-31 07:44:59,11.93,Pugh-Williams,bar
+24,Stephanie Dalton,4681896441519,2018-01-17 07:56:09,11.91,Riggs-Adams,restaurant
+25,Nancy Contreras,372414832802279,2018-06-08 07:25:30,11.88,Kim-Lopez,coffee shop
+23,Mark Lewis,4188164051171486,2018-12-31 08:22:17,11.87,Berry-Lopez,restaurant
+4,Danielle Green,584226564303,2018-08-30 08:46:49,11.86,Perry and Sons,bar
+13,John Martin,3561954487988605,2018-04-08 07:06:20,11.73,Solis Group,food truck
+16,Crystal Clark,5500708021555307,2018-09-15 08:33:49,11.72,"Pitts, Salinas and Garcia",coffee shop
+21,Dana Washington,4279104135293225293,2018-12-18 07:45:28,11.70,"Kelly, Dyer and Schmitt",food truck
+13,John Martin,5135837688671496,2018-02-25 07:37:03,11.68,Rowe-Abbott,pub
+11,Brandon Pineda,4027907156459098,2018-05-04 08:21:59,11.65,"Bryant, Thomas and Collins",pub
+6,Beth Hernandez,3581345943543942,2018-02-22 07:59:29,11.64,"Ford, Williams and Dunn",pub
+18,Malik Carlson,4498002758300,2018-11-04 08:34:16,11.64,"Curry, Scott and Richardson",bar
+14,Gary Jacobs,5175947111814778,2018-03-12 08:57:11,11.55,Armstrong PLC,food truck
+4,Danielle Green,584226564303,2018-07-23 07:33:44,11.45,Lee LLC,restaurant
+15,Kyle Tucker,6500236164848279,2018-08-16 08:15:42,11.37,Lowe PLC,restaurant
+12,Megan Price,5297187379298983,2018-10-20 08:13:44,11.37,Combs-Jones,food truck
+2,Shane Shaffer,4866761290278198714,2018-09-29 07:16:40,11.35,"Johnson, Rivas and Anderson",restaurant
+12,Megan Price,376027549341849,2018-01-25 08:58:28,11.35,Wood-Ramirez,bar
+16,Crystal Clark,503842928916,2018-10-13 07:26:25,11.31,"Mcdaniel, Hines and Mcfarland",coffee shop
+11,Brandon Pineda,4027907156459098,2018-11-26 07:19:47,11.29,Riggs-Adams,restaurant
+10,Matthew Gutierrez,213193946980303,2018-03-15 07:30:36,11.12,Griffin-Woodard,bar
+13,John Martin,5135837688671496,2018-10-27 08:17:07,11.08,"Nguyen, Bautista and Williams",pub
+12,Megan Price,376027549341849,2018-10-03 08:32:36,10.97,Hamilton-Mcfarland,restaurant
+15,Kyle Tucker,6500236164848279,2018-01-24 07:55:45,10.96,Rowe-Abbott,pub
+12,Megan Price,5297187379298983,2018-05-22 07:44:08,10.93,Reed Group,food truck
+11,Brandon Pineda,180098539019105,2018-09-24 07:16:11,10.92,Jarvis-Turner,pub
+24,Stephanie Dalton,3582198969197591,2018-10-09 08:15:25,10.85,Williams Group,bar
+4,Danielle Green,4263694062533017,2018-04-14 08:09:42,10.82,Padilla-Clements,coffee shop
+21,Dana Washington,4279104135293225293,2018-04-13 07:16:33,10.78,Greer Inc,bar
+1,Robert Johnson,3517111172421930,2018-11-09 07:37:01,10.74,"Vega, Jones and Castro",food truck
+5,Sara Cooper,4276466390111,2018-07-25 07:55:47,10.68,Ferguson Ltd,coffee shop
+24,Stephanie Dalton,30142966699187,2018-01-20 07:47:30,10.58,Combs-Jones,food truck
+24,Stephanie Dalton,3582198969197591,2018-11-24 07:08:51,10.58,"Brown, Estrada and Powers",coffee shop
+15,Kyle Tucker,6500236164848279,2018-06-16 07:02:51,10.56,Garcia PLC,food truck
+23,Mark Lewis,4150721559116778,2018-08-30 07:43:55,10.55,"Norton, Burton and Smith",food truck
+23,Mark Lewis,4188164051171486,2018-03-30 08:28:18,10.53,Giles and Sons,pub
+7,Sean Taylor,4539990688484983,2018-06-12 07:21:43,10.53,Greene-Wood,bar
+4,Danielle Green,584226564303,2018-04-30 07:29:14,10.51,Horn Ltd,coffee shop
+16,Crystal Clark,503842928916,2018-11-03 08:54:52,10.50,Greene-Wood,bar
+12,Megan Price,5297187379298983,2018-12-01 07:43:40,10.48,Greer Inc,bar
+16,Crystal Clark,503842928916,2018-03-18 07:23:02,10.47,Fisher-Bolton,restaurant
+2,Shane Shaffer,4866761290278198714,2018-01-23 08:07:03,10.47,Gomez-Kelly,pub
+6,Beth Hernandez,3581345943543942,2018-07-18 08:04:03,10.45,"Jones, Clark and Hoover",coffee shop
+18,Malik Carlson,4498002758300,2018-09-30 07:38:44,10.45,Colon Ltd,bar
+2,Shane Shaffer,675911140852,2018-10-30 07:27:12,10.45,"Murphy, Heath and Fields",restaurant
+22,Austin Johnson,501809222273,2018-09-10 07:53:03,10.38,Wallace and Sons,coffee shop
+24,Stephanie Dalton,30142966699187,2018-03-17 08:07:52,10.36,Little-Floyd,pub
+11,Brandon Pineda,180098539019105,2018-09-10 07:47:31,10.32,"Walker, Deleon and Wolf",restaurant
+13,John Martin,5135837688671496,2018-12-10 07:44:42,10.31,Kim-Lopez,coffee shop
+2,Shane Shaffer,4866761290278198714,2018-08-16 07:51:18,10.29,Thornton-Williams,pub
+10,Matthew Gutierrez,4165305432349489280,2018-05-30 08:53:40,10.28,"Norton, Burton and Smith",food truck
+12,Megan Price,501879657465,2018-09-21 08:28:34,10.27,"Rodgers, Johnston and Macias",food truck
+9,Laurie Gibbs,30181963913340,2018-10-09 07:22:22,10.27,Smith-Stephens,coffee shop
+15,Kyle Tucker,4723783028106084756,2018-02-01 08:49:24,10.26,Williams Inc,pub
+12,Megan Price,376027549341849,2018-03-19 08:40:24,10.26,Vasquez-Parker,bar
+23,Mark Lewis,4188164051171486,2018-04-19 07:48:36,10.25,"Bryant, Thomas and Collins",pub
+23,Mark Lewis,4741042733274,2018-04-19 08:09:45,10.24,Greene-Wood,bar
+11,Brandon Pineda,4027907156459098,2018-05-22 08:49:19,10.24,Fisher-Bolton,restaurant
+12,Megan Price,376027549341849,2018-01-14 07:50:44,10.23,Brown LLC,bar
+9,Laurie Gibbs,30181963913340,2018-07-10 08:29:26,10.23,Hamilton-Mcfarland,restaurant
+23,Mark Lewis,4188164051171486,2018-04-15 07:45:25,10.21,Williams Group,bar
+12,Megan Price,5297187379298983,2018-07-15 08:56:47,10.21,Marshall-Lopez,food truck
+6,Beth Hernandez,3581345943543942,2018-10-22 08:11:43,10.20,Marshall-Rojas,coffee shop
+12,Megan Price,376027549341849,2018-06-22 07:42:33,10.16,Vasquez-Parker,bar
+10,Matthew Gutierrez,4962915017023706562,2018-06-02 07:02:24,10.15,Mccullough-Murphy,food truck
+20,Kevin Spencer,4586962917519654607,2018-04-21 07:53:33,10.11,Turner Ltd,pub
+8,Michael Floyd,4834483169177062,2018-08-19 08:23:11,10.06,Reed Group,food truck
+13,John Martin,4711773125020499,2018-04-12 08:33:16,10.03,Carter-Blackwell,pub
+5,Sara Cooper,4276466390111,2018-11-11 07:57:40,10.02,Robles Inc,bar
+4,Danielle Green,584226564303,2018-02-16 08:32:50,10.00,Kennedy-Chen,bar
+15,Kyle Tucker,6500236164848279,2018-07-15 07:33:37,9.89,Ramirez-Carr,coffee shop
+15,Kyle Tucker,4723783028106084756,2018-12-15 08:05:20,9.59,Bauer-Cole,bar
+14,Gary Jacobs,5175947111814778,2018-09-20 08:41:00,8.32,"Miller, Chavez and Cobb",food truck
+14,Gary Jacobs,5175947111814778,2018-02-18 08:19:55,8.02,"Maxwell, Tapia and Villanueva",coffee shop
+19,Peter Mckay,4743204091443101526,2018-11-20 08:31:45,7.80,"Sanders, Parks and Mcfarland",coffee shop
+5,Sara Cooper,4276466390111,2018-09-23 08:15:35,7.73,Ruiz-Anderson,pub
+12,Megan Price,5297187379298983,2018-04-22 07:19:40,7.33,"Jacobs, Torres and Walker",bar
+12,Megan Price,376027549341849,2018-02-26 07:25:47,7.23,Robles Inc,bar
+8,Michael Floyd,4834483169177062,2018-01-07 07:33:17,7.07,Osborne-Page,coffee shop
+14,Gary Jacobs,5175947111814778,2018-06-27 08:22:41,6.68,Johnson and Sons,coffee shop
+10,Matthew Gutierrez,4962915017023706562,2018-11-25 08:31:16,6.46,Ferguson Ltd,coffee shop
+4,Danielle Green,584226564303,2018-06-30 08:01:12,6.40,"Bell, Gonzalez and Lowe",pub
+15,Kyle Tucker,4723783028106084756,2018-08-17 08:25:22,6.36,"Dalton, Cameron and Jones",bar
+7,Sean Taylor,4539990688484983,2018-06-18 08:04:04,6.23,Marshall-Rojas,coffee shop
+22,Austin Johnson,501809222273,2018-03-26 08:14:09,6.20,Velazquez Ltd,pub
+23,Mark Lewis,4150721559116778,2018-02-14 08:06:06,6.17,Ruiz-Chavez,bar
+24,Stephanie Dalton,3582198969197591,2018-05-14 08:19:34,6.06,Best Inc,restaurant
+19,Peter Mckay,5361779664174555,2018-12-24 08:12:44,5.96,Padilla-Clements,coffee shop
+24,Stephanie Dalton,4681896441519,2018-08-28 08:40:01,5.94,"Young, Hull and Williams",pub
+23,Mark Lewis,4150721559116778,2018-08-05 08:11:21,5.92,"Nguyen, Bautista and Williams",pub
+15,Kyle Tucker,6500236164848279,2018-07-29 07:42:47,5.84,Ferguson Ltd,coffee shop
+13,John Martin,4711773125020499,2018-01-25 07:41:11,5.74,Kim-Lopez,coffee shop
+15,Kyle Tucker,4723783028106084756,2018-10-29 07:16:30,5.65,"Maxwell, Tapia and Villanueva",coffee shop
+19,Peter Mckay,4743204091443101526,2018-10-07 08:21:09,5.59,Young-Navarro,food truck
+16,Crystal Clark,5500708021555307,2018-01-24 07:14:27,5.56,Hamilton-Mcfarland,restaurant
+3,Elizabeth Sawyer,30078299053512,2018-05-16 08:50:23,5.55,Hamilton-Mcfarland,restaurant
+12,Megan Price,5297187379298983,2018-07-02 08:25:29,5.50,"Williams, Wright and Wagner",coffee shop
+19,Peter Mckay,3561072557118696,2018-11-23 07:23:43,5.27,Jarvis-Turner,pub
+21,Dana Washington,4279104135293225293,2018-11-28 07:16:22,5.17,Riggs-Adams,restaurant
+3,Elizabeth Sawyer,30078299053512,2018-03-25 08:27:43,5.17,Santos-Fitzgerald,pub
+6,Beth Hernandez,4159836738768855913,2018-07-21 07:26:50,5.11,Wheeler-Moreno,food truck
+3,Elizabeth Sawyer,30078299053512,2018-12-16 08:22:39,5.05,"Wilson, Roberts and Davenport",food truck
+5,Sara Cooper,4268491956169254,2018-01-24 08:28:08,5.00,Wood-Ramirez,bar
+10,Matthew Gutierrez,4165305432349489280,2018-03-22 08:20:15,4.98,"Davis, Lowe and Baxter",food truck
+10,Matthew Gutierrez,213193946980303,2018-05-15 07:25:18,4.96,"Kelly, Dyer and Schmitt",food truck
+12,Megan Price,501879657465,2018-08-13 07:48:40,4.89,Brown LLC,bar
+19,Peter Mckay,3561072557118696,2018-10-04 07:23:53,4.85,Ramirez-Carr,coffee shop
+15,Kyle Tucker,4723783028106084756,2018-11-09 08:29:42,4.74,Turner Ltd,pub
+20,Kevin Spencer,4586962917519654607,2018-04-13 07:00:05,4.72,Fisher-Bolton,restaurant
+13,John Martin,3561954487988605,2018-06-05 08:19:20,4.60,Bauer-Cole,bar
+20,Kevin Spencer,3535651398328201,2018-06-09 08:28:23,4.54,Patton-Rivera,bar
+16,Crystal Clark,5570600642865857,2018-02-03 07:45:02,4.53,"Kelly, Dyer and Schmitt",food truck
+19,Peter Mckay,3561072557118696,2018-08-25 08:06:30,4.37,"Allen, Ramos and Carroll",pub
+9,Laurie Gibbs,30181963913340,2018-11-29 08:38:28,4.29,Robertson-Smith,pub
+12,Megan Price,376027549341849,2018-05-26 08:08:43,4.28,Hamilton-Mcfarland,restaurant
+16,Crystal Clark,503842928916,2018-06-07 08:00:15,4.14,Stanton Group,pub
+8,Michael Floyd,4834483169177062,2018-06-19 08:36:08,4.03,"Norton, Burton and Smith",food truck
+11,Brandon Pineda,4027907156459098,2018-01-03 08:44:46,3.89,Skinner-Williams,pub
+4,Danielle Green,584226564303,2018-11-24 07:57:37,3.88,"Jenkins, Peterson and Beck",restaurant
+5,Sara Cooper,4268491956169254,2018-11-15 08:28:06,3.86,Santos-Fitzgerald,pub
+18,Malik Carlson,4498002758300,2018-09-25 07:39:58,3.66,Colon Ltd,bar
+19,Peter Mckay,5361779664174555,2018-03-31 08:48:53,3.65,Sweeney-Paul,coffee shop
+6,Beth Hernandez,3581345943543942,2018-07-09 07:58:15,3.59,"Bond, Lewis and Rangel",restaurant
+8,Michael Floyd,30063281385429,2018-09-30 08:04:11,3.58,Patton-Rivera,bar
+18,Malik Carlson,4498002758300,2018-12-28 08:45:26,3.46,Day-Murray,food truck
+15,Kyle Tucker,4723783028106084756,2018-07-24 07:40:27,3.35,Best Inc,restaurant
+11,Brandon Pineda,180098539019105,2018-05-04 08:33:40,3.25,Carter-Blackwell,pub
+10,Matthew Gutierrez,4165305432349489280,2018-05-22 08:44:45,3.24,"Rodgers, Johnston and Macias",food truck
+18,Malik Carlson,4498002758300,2018-05-19 07:14:56,3.22,Riggs-Adams,restaurant
+4,Danielle Green,584226564303,2018-01-14 07:06:57,3.15,Johnson-Fuller,pub
+15,Kyle Tucker,6500236164848279,2018-06-25 07:07:38,3.09,"Scott, Hess and Finley",bar
+24,Stephanie Dalton,3582198969197591,2018-01-27 08:24:11,3.08,Wallace and Sons,coffee shop
+16,Crystal Clark,5570600642865857,2018-02-24 07:59:19,2.90,Kidd-Lopez,food truck
+15,Kyle Tucker,4723783028106084756,2018-06-22 07:42:35,2.88,Herrera Group,restaurant
+12,Megan Price,376027549341849,2018-03-23 07:49:52,2.79,"Ford, Williams and Dunn",pub
+13,John Martin,3561954487988605,2018-12-27 07:35:24,2.71,Brown-Cunningham,pub
+23,Mark Lewis,4150721559116778,2018-01-29 07:01:26,2.65,Miller-Blevins,pub
+16,Crystal Clark,503842928916,2018-04-07 08:18:17,2.58,"Vega, Jones and Castro",food truck
+19,Peter Mckay,3561072557118696,2018-02-25 08:52:38,2.55,Kim-Lopez,coffee shop
+7,Sean Taylor,3516952396080247,2018-12-22 08:37:19,2.51,Kidd-Lopez,food truck
+24,Stephanie Dalton,4681896441519,2018-01-19 07:08:43,2.51,Russell-Thomas,restaurant
+11,Brandon Pineda,4027907156459098,2018-10-05 07:41:47,2.49,Mccullough-Murphy,food truck
+22,Austin Johnson,501809222273,2018-02-08 08:36:01,2.48,Patton-Rivera,bar
+15,Kyle Tucker,4723783028106084756,2018-01-29 07:09:51,2.46,Mccullough-Murphy,food truck
+17,Michael Carroll,6011987562414062,2018-05-17 07:39:47,2.43,Browning-Cantu,pub
+10,Matthew Gutierrez,4165305432349489280,2018-05-10 08:27:32,2.40,Lopez-Kelly,restaurant
+12,Megan Price,376027549341849,2018-09-15 07:31:59,2.34,Kim-Lopez,coffee shop
+7,Sean Taylor,3516952396080247,2018-05-12 08:42:43,2.24,Mccarty-Thomas,bar
+20,Kevin Spencer,3535651398328201,2018-05-18 07:21:45,2.24,Garcia and Sons,pub
+5,Sara Cooper,4268491956169254,2018-08-17 07:24:43,2.24,Lee LLC,restaurant
+13,John Martin,5135837688671496,2018-03-04 07:04:06,2.23,Baker Inc,food truck
+10,Matthew Gutierrez,4962915017023706562,2018-10-13 07:56:45,2.11,Greene-Wood,bar
+15,Kyle Tucker,4723783028106084756,2018-11-15 07:29:13,2.09,"Pitts, Salinas and Garcia",coffee shop
+5,Sara Cooper,4276466390111,2018-03-20 08:58:40,2.06,"Brown, Estrada and Powers",coffee shop
+4,Danielle Green,4263694062533017,2018-09-02 07:33:42,2.05,"Jacobs, Torres and Walker",bar
+7,Sean Taylor,4539990688484983,2018-04-09 08:30:25,1.99,Mccarty PLC,restaurant
+19,Peter Mckay,4743204091443101526,2018-09-24 08:19:07,1.89,Pugh-Williams,bar
+16,Crystal Clark,5570600642865857,2018-03-21 08:07:16,1.77,Fisher-Bolton,restaurant
+25,Nancy Contreras,372414832802279,2018-10-08 08:18:57,1.74,Baxter-Smith,restaurant
+19,Peter Mckay,4743204091443101526,2018-04-29 08:03:32,1.72,Pugh-Williams,bar
+4,Danielle Green,584226564303,2018-10-11 08:58:22,1.67,"Wilson, Roberts and Davenport",food truck
+8,Michael Floyd,30063281385429,2018-10-11 07:53:12,1.63,Day-Murray,food truck
+19,Peter Mckay,3561072557118696,2018-06-07 07:07:22,1.62,Greene-Wood,bar
+18,Malik Carlson,4498002758300,2018-09-28 07:31:10,1.61,Patton-Rivera,bar
+4,Danielle Green,584226564303,2018-10-02 07:39:36,1.54,Clark and Sons,food truck
+16,Crystal Clark,5500708021555307,2018-01-23 08:18:10,1.48,Jarvis-Turner,pub
+12,Megan Price,501879657465,2018-05-14 07:06:07,1.46,Greene-Wood,bar
+16,Crystal Clark,503842928916,2018-06-19 08:34:09,1.46,Russell and Sons,pub
+12,Megan Price,376027549341849,2018-03-23 07:13:23,1.46,"Fleming, Smith and Collins",bar
+23,Mark Lewis,4188164051171486,2018-12-18 07:36:22,1.45,"Wilson, Roberts and Davenport",food truck
+20,Kevin Spencer,4506405265172173,2018-06-07 08:58:28,1.41,Brown-Cunningham,pub
+14,Gary Jacobs,5175947111814778,2018-03-08 07:46:00,1.37,Baker Inc,food truck
+3,Elizabeth Sawyer,30078299053512,2018-10-05 08:27:56,1.36,Sweeney-Paul,coffee shop
+18,Malik Carlson,344119623920892,2018-01-05 07:19:27,1.36,Atkinson Ltd,bar
+8,Michael Floyd,30063281385429,2018-07-16 07:21:20,1.27,Miller-Blevins,pub
+24,Stephanie Dalton,3582198969197591,2018-02-11 08:25:36,1.26,Brown LLC,bar
+11,Brandon Pineda,4027907156459098,2018-09-26 08:50:53,1.19,Martinez Group,restaurant
+16,Crystal Clark,503842928916,2018-02-09 07:38:19,1.16,"Bell, Gonzalez and Lowe",pub
+7,Sean Taylor,3516952396080247,2018-04-29 08:15:40,1.11,Wood-Ramirez,bar
+8,Michael Floyd,30063281385429,2018-08-05 07:24:20,1.09,"Cline, Myers and Strong",restaurant
+12,Megan Price,501879657465,2018-09-12 07:09:31,1.09,Henderson and Sons,restaurant
+19,Peter Mckay,4743204091443101526,2018-12-20 08:00:01,0.78,Robles Inc,bar
+5,Sara Cooper,4268491956169254,2018-03-27 07:04:02,0.78,Baker Inc,food truck
+19,Peter Mckay,5361779664174555,2018-09-21 07:53:08,0.61,Mitchell Group,coffee shop
+11,Brandon Pineda,4027907156459098,2018-05-30 08:27:41,0.59,"Davis, Lowe and Baxter",food truck

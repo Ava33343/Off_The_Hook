@@ -75,5 +75,3 @@ ORDER BY "vulnerable_merchant" DESC;
 
 -- Once you have a query that can be reused, create a view for each of the previous queries.
 -- Alternatively, the queries from original data sets can be set up using "WHERE" and "IN" for amount <= 2
-
-
