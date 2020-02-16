@@ -1,22 +1,29 @@
 -- Create a table for each view in queries.sql
+--DROP TABLE cardholder_trans;
 CREATE TABLE cardholder_trans AS 
 SELECT * FROM cardholder_transactions;
 
+--DROP TABLE cardholder_tran;
 CREATE TABLE cardholder_tran AS
 SELECT * FROM cardholder_transaction;
 
+--DROP TABLE smaller_than_2;
 CREATE TABLE smaller_than_2 AS
 SELECT * FROM less_than_2;
 
+--DROP TABLE mini_transactions;
 CREATE TABLE mini_transactions AS
 SELECT * FROM small_transactions;
 
+--DROP TABLE top_100_07to09;
 CREATE TABLE top_100_07to09 AS
 SELECT * FROM top_100_7to9;
 
+--DROP TABLE transactions_07to09;	
 CREATE TABLE transactions_07to09 AS
 SELECT * FROM transaction_time;
 
+--DROP TABLE vulnerable_merchant;
 CREATE TABLE vulnerable_merchant AS
 SELECT * FROM vulnerable_merchants;
 
@@ -24,12 +31,14 @@ SELECT * FROM vulnerable_merchants;
 -- Tables are created to fetch transaction data during the that time window.
 -- One of the reasons is that people are not monitoring card activities when asleep.
 
+--DROP TABLE suspicious_12to5am;
 CREATE TABLE suspicious_12to5am AS
 SELECT * 
 FROM cardholder_transactions 
   -- gets the hour of the day from the datetime
 	WHERE date::time between time '00:00:00' and '05:00:00';
-	
+
+--DROP TABLE suspicious_moonlight;
 CREATE TABLE suspicious_moonlight AS
 SELECT u.id, u.name, COUNT(u.id) AS "moonlight_transactions" 
 FROM suspicious_12to5am as u
@@ -37,19 +46,20 @@ GROUP BY u.id, u.name
 ORDER BY "moonlight_transactions" DESC;
 
 -- Create tables for activities of less than $2.00 in amount occuring from 12am to 5am 
+DROP TABLE suspicious_mini_12to5am;
 CREATE TABLE suspicious_mini_12to5am AS
 SELECT * 
 FROM suspicious_12to5am
 	WHERE amount <= 2.00;
 
--- DROP TABLE suspicious_mini_transactions;
+--DROP TABLE suspicious_mini_transactions;
 CREATE TABLE suspicious_mini_transactions AS
 SELECT p.id, p.name, COUNT(p.id) AS "mini_transactions" 
 FROM suspicious_mini_12to5am as p
 GROUP BY p.id, p.name
 ORDER BY "mini_transactions" DESC;
 
--- DROP TABLE vulnerable_merchants_moonlight;
+--DROP TABLE vulnerable_merchants_moonlight;
 CREATE TABLE vulnerable_merchants_moonlight AS
 SELECT p.merchant, p.category, COUNT(p.merchant) AS "vulnerable_merchant_moonlight"
 FROM suspicious_mini_12to5am as p

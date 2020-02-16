@@ -74,7 +74,7 @@ Read the following articles on outliers detection, and then code a function usin
 
 ### Submission in Answers folder:
 
-* ![ERD](Images/ERD.png)
+* [ERD](Images/ERD.png)
 
 * [Table Schemata](Code/table_schemata.sql)
 
@@ -101,3 +101,10 @@ Read the following articles on outliers detection, and then code a function usin
 * https://chargebacks911.com/fraud-red-flags/
 * https://blog.bluepay.com/how-to-recognize-a-potentially-fraudulent-credit-card-user
 * https://www.verifi.com/resources/10-telltale-signs-of-a-fraudulent-order-how-to-stop-chargebacks-before-they-stop-you/
+* https://hvplot.holoviz.org/user_guide/Plotting.html
+* https://mode.com/blog/postgres-sql-date-functions
+* https://docs.python.org/3.3/library/random.html#random.sample
+* https://stackoverflow.com/questions/23199796/detect-and-exclude-outliers-in-pandas-data-frame
+* http://www.itl.nist.gov/div898/handbook/prc/section1/prc16.htm
+* https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/
+* https://medium.com/datadriveninvestor/finding-outliers-in-dataset-using-python-efc3fce6ce32
