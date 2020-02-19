@@ -54,11 +54,11 @@ It's time to identify fraudulent transactions. In this part of the homework assi
       1. A view called "transaction_time" is created for all transactions from '07:00:00' to '09:00:00' in [Queries to Detect Fraud](Code/queries.sql)
           * from [cardholder_tran](Data/cardholder_tran.csv) in Step 3 (Optional) above
           * so that transactions are ordered from highest to lowest amounts
-            ![Highest Transations between 7am and 9am](Images/mini_trasactions.png)
+![Highest Transations between 7am and 9am](Images/mini_trasactions.png)
       2. Limit the number of transactions to 100 so that only the top 100 highest transactions from 7 to 9 am are included
           * create a view called "top_100_7to9"
           * generate table [top_100_07to09](Data/top_100_07to09.csv)
-              ![Top 100 Transations in Amounts between 7am and 9am](Images/top_100_07to09.png)
+![Top 100 Transations in Amounts between 7am and 9am](Images/top_100_07to09.png)
   
   *Do you see any fraudulent or anomalous transactions? Yes!*
   
@@ -139,7 +139,7 @@ It's time to identify fraudulent transactions. In this part of the homework assi
 *What are the top 5 merchants prone to being hacked using small transactions?*
 1. A view "vulnerable_merchants" is created on [Queries to Detect Fraud](Code/queries.sql) and table ["vulnerable_merchant"](Data/vulnerable_merchant.csv) is created via [Supplemental Queries](Code/queries_supplemental.sql). The merchants were ranked from highest to lowest based on the number of transactions less than or equal to two dollars. 
     * Note: since there were no transaction equivalent to two dollars in 2018, the numbers were the same as for transactions less than two dollars.
-      ![Most Vulnerable Merchants to Mini Transactions under Two Dollars](Images/mini_transactions.png)
+![Most Vulnerable Merchants to Mini Transactions under Two Dollars](Images/mini_transactions.png)
     
 2. Based on the list above, the top five merchants prone to being hacked using small transactions that are less than two dollars in 2018 were:
     i. Wood-Ramirez bar with 7 transactions 
@@ -199,13 +199,13 @@ Clark and Sons food truck appeared both here and on the previous list of vulbera
 
   *Using hvPlot, create a line plot representing the time series of transactions over the course of the year for each cardholder. In order to compare the patterns of both cardholders, create a line plot containing both lines.*
     * a line plot representing the time series of transactions for Cardholder ID #2:
-    ![2018 Transactions for Cardholder ID #2](Images/Transactions 2018 for Cardholder 2.png)
+![2018 Transactions for Cardholder ID #2](Images/Transactions 2018 for Cardholder 2.png)
     
     * a line plot representing the time series of transactions for Cardholder ID #18:
-    ![2018 Transactions for Cardholder ID #18](Images/Transactions 2018 for Cardholder 18.png)
+![2018 Transactions for Cardholder ID #18](Images/Transactions 2018 for Cardholder 18.png)
     
      * a combined line plot overlaying the time series of transactions for Cardholder ID #2 and #18:
-    ![Combined 2018 Transactions for Cardholder ID #2 and #18](Images/Transactions Overlay 2018 for Cardholder 2 and 18.png)
+![Combined 2018 Transactions for Cardholder ID #2 and #18](Images/Transactions Overlay 2018 for Cardholder 2 and 18.png)
         * Note: by zooming in the original interactive hvplot, the green line representing time series transactions for Cardholder #2 will show on the bottom of the overlaying plot. 
     
   *What difference do you observe between the consumption patterns? Does the difference suggest a fraudulent transaction? Explain your rationale.*
@@ -222,7 +222,8 @@ Clark and Sons food truck appeared both here and on the previous list of vulbera
 *The CEO of the biggest customer of the firm suspects that someone has used her corporate credit card without authorization in the first quarter of 2018 to pay quite expensive restaurant bills. You are asked to find any anomalous transactions during that period.*
 
   *Using Plotly Express, create a series of six box plots, one for each month, in order to identify how many outliers per month for cardholder ID 25.*
-    ![2018 Monthly Transaction Amount for Client ID #25](Images/Monthly Transaction Amount 2018 for Client ID #25.png)
+
+![2018 Monthly Transaction Amount for Client ID #25](Images/Monthly Transaction Amount 2018 for Client ID #25.png)
     
   *Do you notice any anomalies? Describe your observations and conclusions.*
     Yes. Looking at the series of box plot above, it is noticed that there were outliers for January and March, in the amounts of 1177 and 1334 dollars, respectively. 
@@ -248,7 +249,7 @@ After reading the articles, there were two ways to identify outliers in samples:
           occurred on March 4 at a coffee shop, June 10 at a pub, and December 19 at another pub respectively.
           Among those, the one on June 10 of $1795 appeared the most suspicious since it occured at 4:54am during the night. 
           The transaction at Maldonado Group Coffee Shop was of high alert too since the amount seemed significantly higher than regular coffee shop transactions.
-          ![Fraudulent Transactions for Cardholder ID #9](Images/Fraud_#9.png)
+![Fraudulent Transactions for Cardholder ID #9](Images/Fraud_#9.png)
         * Command "from spiccy import stats" was used to identify the 3 ourliers that were dropped from the original 61 total transactions.
           They are the 14th, 28th and 61st transactions for Cardholder #9 in 2018, from the earliest to most recent.
           
@@ -274,7 +275,7 @@ After reading the articles, there were two ways to identify outliers in samples:
     * The IQR for Cardholder #7 is $12.37 with lower quartile $3.66 and upper quartile $16.02.
       An upper fence of $34.58 and lower fence of $-14.90 are used to screen outliers.
     * 10 outliers, i.e. anomalies, were identified out of a total of 139 transactions in 2018 as follows:
-      ![Fraudulent Transactions for Cardholder ID #7](Images/Fraud_#7.png)
+![Fraudulent Transactions for Cardholder ID #7](Images/Fraud_#7.png)
       Those are the 2nd, 7th, 11th, 13th, 15th, 26th
     * In conclusion, assuming non-Gaussian distribution for Cardholder #7, using the IQR method to identify outliers, 
       there were ten potentially fraudulent credit transactions in 2018. Two of those appears the most suspicious.
@@ -290,7 +291,7 @@ After reading the articles, there were two ways to identify outliers in samples:
       An upper fence of $35.07 and lower fence of $-15.59 are used to screen outliers.
     * Assuming non-Gaussian distribution for Cardholder #18, using the IQR method to identify outliers, 
       there were twelve potentially fraudulent credit transactions in 2018 out of a total of 133 transactions as shown below:
-      ![Fraudulent Transactions for Cardholder ID #18](Images/Fraud_#18.png)
+![Fraudulent Transactions for Cardholder ID #18](Images/Fraud_#18.png)
     * Six of those appears highly suspicious. 
       Based on time of transactions, one took place on Jan 7 in the amount of 175 dollars at 1:10AM at a pub. 
       On April 3, a fraudulent transaction of 1,077 dollars took place at 3:23AM at Townsend_Anderson Restaurant. 
