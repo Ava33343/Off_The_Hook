@@ -223,7 +223,7 @@ Clark and Sons food truck appeared both here and on the previous list of vulbera
 
   *Using Plotly Express, create a series of six box plots, one for each month, in order to identify how many outliers per month for cardholder ID 25.*
 
-![2018_Monthly_Transaction_Amount_for_Client_ID_#25](Images/Monthly_Transaction_Amount_2018_for_Client_ID_#25.png)
+![2018_Monthly_Transaction_Amount_for_Client_ID_#25](Images/Monthly_Transaction_Amount_2018_for_Client_ID_25.png)
     
   *Do you notice any anomalies? Describe your observations and conclusions.*
     Yes. Looking at the series of box plot above, it is noticed that there were outliers for January and March, in the amounts of 1177 and 1334 dollars, respectively. 
@@ -249,7 +249,7 @@ After reading the articles, there were two ways to identify outliers in samples:
           occurred on March 4 at a coffee shop, June 10 at a pub, and December 19 at another pub respectively.
           Among those, the one on June 10 of $1795 appeared the most suspicious since it occured at 4:54am during the night. 
           The transaction at Maldonado Group Coffee Shop was of high alert too since the amount seemed significantly higher than regular coffee shop transactions.
-![Fraudulent Transactions for Cardholder ID #9](Images/Fraud_#9.png)
+![Fraudulent Transactions for Cardholder ID #9](Images/Fraud_9.png)
         * Command "from spiccy import stats" was used to identify the 3 ourliers that were dropped from the original 61 total transactions.
           They are the 14th, 28th and 61st transactions for Cardholder #9 in 2018, from the earliest to most recent.
           
@@ -275,7 +275,7 @@ After reading the articles, there were two ways to identify outliers in samples:
     * The IQR for Cardholder #7 is $12.37 with lower quartile $3.66 and upper quartile $16.02.
       An upper fence of $34.58 and lower fence of $-14.90 are used to screen outliers.
     * 10 outliers, i.e. anomalies, were identified out of a total of 139 transactions in 2018 as follows:
-![Fraudulent Transactions for Cardholder ID #7](Images/Fraud_#7.png)
+![Fraudulent Transactions for Cardholder ID #7](Images/Fraud_7.png)
       Those are the 2nd, 7th, 11th, 13th, 15th, 26th
     * In conclusion, assuming non-Gaussian distribution for Cardholder #7, using the IQR method to identify outliers, 
       there were ten potentially fraudulent credit transactions in 2018. Two of those appears the most suspicious.
@@ -291,7 +291,7 @@ After reading the articles, there were two ways to identify outliers in samples:
       An upper fence of $35.07 and lower fence of $-15.59 are used to screen outliers.
     * Assuming non-Gaussian distribution for Cardholder #18, using the IQR method to identify outliers, 
       there were twelve potentially fraudulent credit transactions in 2018 out of a total of 133 transactions as shown below:
-![Fraudulent Transactions for Cardholder ID #18](Images/Fraud_#18.png)
+![Fraudulent Transactions for Cardholder ID #18](Images/Fraud_18.png)
     * Six of those appears highly suspicious. 
       Based on time of transactions, one took place on Jan 7 in the amount of 175 dollars at 1:10AM at a pub. 
       On April 3, a fraudulent transaction of 1,077 dollars took place at 3:23AM at Townsend_Anderson Restaurant. 
