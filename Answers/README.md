@@ -199,13 +199,13 @@ Clark and Sons food truck appeared both here and on the previous list of vulbera
 
   *Using hvPlot, create a line plot representing the time series of transactions over the course of the year for each cardholder. In order to compare the patterns of both cardholders, create a line plot containing both lines.*
     * a line plot representing the time series of transactions for Cardholder ID #2:
-![2018 Transactions for Cardholder ID #2](Images/Transactions 2018 for Cardholder 2.png)
+![2018 Transactions for Cardholder ID #2](Images/Transactions_2018_for_Cardholder_2.png)
     
     * a line plot representing the time series of transactions for Cardholder ID #18:
-![2018 Transactions for Cardholder ID #18](Images/Transactions 2018 for Cardholder 18.png)
+![2018 Transactions for Cardholder ID #18](Images/Transactions_2018_for_Cardholder_18.png)
     
      * a combined line plot overlaying the time series of transactions for Cardholder ID #2 and #18:
-![Combined 2018 Transactions for Cardholder ID #2 and #18](Images/Transactions Overlay 2018 for Cardholder 2 and 18.png)
+![Combined 2018 Transactions for Cardholder ID #2 and #18](Images/Transactions_Overlay_2018_for_Cardholder_2_and_18.png)
         * Note: by zooming in the original interactive hvplot, the green line representing time series transactions for Cardholder #2 will show on the bottom of the overlaying plot. 
     
   *What difference do you observe between the consumption patterns? Does the difference suggest a fraudulent transaction? Explain your rationale.*
@@ -223,7 +223,7 @@ Clark and Sons food truck appeared both here and on the previous list of vulbera
 
   *Using Plotly Express, create a series of six box plots, one for each month, in order to identify how many outliers per month for cardholder ID 25.*
 
-![2018 Monthly Transaction Amount for Client ID #25](Images/Monthly Transaction Amount 2018 for Client ID #25.png)
+![2018_Monthly_Transaction_Amount_for_Client_ID_#25](Images/Monthly_Transaction_Amount_2018_for_Client_ID_#25.png)
     
   *Do you notice any anomalies? Describe your observations and conclusions.*
     Yes. Looking at the series of box plot above, it is noticed that there were outliers for January and March, in the amounts of 1177 and 1334 dollars, respectively. 
