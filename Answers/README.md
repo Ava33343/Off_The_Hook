@@ -139,6 +139,7 @@ It's time to identify fraudulent transactions. In this part of the homework assi
 *What are the top 5 merchants prone to being hacked using small transactions?*
 1. A view "vulnerable_merchants" is created on [Queries to Detect Fraud](Code/queries.sql) and table ["vulnerable_merchant"](Data/vulnerable_merchant.csv) is created via [Supplemental Queries](Code/queries_supplemental.sql). The merchants were ranked from highest to lowest based on the number of transactions less than or equal to two dollars. 
     * Note: since there were no transaction equivalent to two dollars in 2018, the numbers were the same as for transactions less than two dollars.
+
 ![Most Vulnerable Merchants to Mini Transactions under Two Dollars](Images/mini_transactions.png)
     
 2. Based on the list above, the top five merchants prone to being hacked using small transactions that are less than two dollars in 2018 were:
@@ -171,15 +172,21 @@ Based on Table [Suspicious Moonlight Transactions](Data/moonlight_transactions.c
 * Cardholder #19, Peter Mckay
 
 A more detailed list is show below:
+
 ![Suspicious Moonlight Transactions](Images/suspicious_moonlight.png)
+
 In particular, Cardholder #16 and #12 both appeared here and in previous analysis on suspicious transactions less than two dollars. Their credit cards were highly likely to being hacked in 2018.
 
 A table [Moonlight Mini Transactions](Data/suspicious_mini_12to5am.csv)listing mini-transactions in amounts less than two dollars that occured from 12am to 5 am is created as shown here:
+
 ![Suspicious Mini Moonlight Transactions](Images/suspicious_mini_moonlight.png)
+
 Based on the information above, Cardholder #25 Nancy Contreras appeared six times on the list, with four of those took place in the first quarter of 2018, suggesting there there was a good chance that her card was used without authorization. Besides, Cardholder #10, #12, #18, #23 and #24 also show up here. They appeared as high-risk of being hacked in previous analysis due to either large amounts in transactions or numbers of mini-transaction. It reinforces the suspicion. 
 
 As of merchants prone to hacking during 12am to 5am, a table [Vulnerable Merchant during Moonlight](Data/vulnerable_merchants_moonlight.csv) is created. Merchants were ranked based on higher number of "moonlight" mini transactions of under two dollars. 
+
 ![Vulnerable Merchants from 12am to 5am](Images/vulnerable_merchant_moonlight.png)
+
 The top five among those were:
 * Rodriguez-Parker food truck with three such transactions
 and any four of the following with two "moonlight" transactions:
