@@ -56,7 +56,7 @@ It's time to identify fraudulent transactions. In this part of the homework assi
       1. A view called "transaction_time" is created for all transactions from '07:00:00' to '09:00:00' in [Queries to Detect Fraud](Answers/Code/queries.sql)
           * from [cardholder_tran](Data/cardholder_tran.csv) in Step 3 (Optional) above
           * so that transactions are ordered from highest to lowest amounts
-![Highest Transations between 7am and 9am](Answers/Images/mini_trasactions.png)
+![Highest Transations between 7am and 9am](Answers/Images/mini_transactions.png)
       2. Limit the number of transactions to 100 so that only the top 100 highest transactions from 7 to 9 am are included
           * create a view called "top_100_7to9"
           * generate table [top_100_07to09](Data/top_100_07to09.csv)
